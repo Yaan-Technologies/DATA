@@ -8,3 +8,5 @@
 
 4.  [List of Museums](https://docs.google.com/spreadsheets/d/1yXp21wEku9XYM5HqLMTTmzI3EwKE_o6lusminZB9pOU/edit#gid=1246784312)
 
+5. [List of Beaches](https://docs.google.com/spreadsheets/d/1lnN-PL9vpvSqW1SY9PXTSqg-fiVTEFILo7POEjDfquQ/edit?usp=sharing)
+
