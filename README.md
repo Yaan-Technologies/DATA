@@ -10,3 +10,4 @@
 
 5. [List of Beaches](https://docs.google.com/spreadsheets/d/1lnN-PL9vpvSqW1SY9PXTSqg-fiVTEFILo7POEjDfquQ/edit?usp=sharing)
 
+6. [List of Temples](https://docs.google.com/spreadsheets/d/1d_FatE8wxN83cJTJmUTv_wPzt3X2AMHtbJgGPsY0IlY/edit#gid=0)
